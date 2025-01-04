@@ -1,2 +1,3 @@
-# Sapiens
-Testing some Artificial Intelligence basic patterns.
+# sapiens
+
+Algo de teoría y código sobre Inteligencia Artificial.
